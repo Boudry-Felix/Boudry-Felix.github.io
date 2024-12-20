@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Here you will find all talks, presentations, poster, etc. I gave."
+    "text": "Here you will find all the publications I participated in."
   },
   {
     "objectID": "lessons.html",
@@ -12,6 +12,13 @@
     "title": "Lessons",
     "section": "",
     "text": "Here you will find all lessons I am giving or gave in the past."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Here you will find all talks, presentations, poster, etc. I gave."
   },
   {
     "objectID": "about.html",
@@ -26,12 +33,5 @@
     "title": "Boudry Felix",
     "section": "",
     "text": "This is a Quarto website containing my informations, publications, lessons, talks, etc."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Here you will find all the publications I participated in."
   }
 ]
