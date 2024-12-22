@@ -3,3 +3,7 @@ title: "Publications"
 ---
 
 Here you will find all the publications I participated in.
+
+| Title | Journal | File | Publication |
+|---------|---------|:---:|:---:|
+| The role of machine learning methods in physiological explorations of endurance trained athletes: a mini-review | [Frontiers in Sports and Active Living](https://www.frontiersin.org/journals/sports-and-active-living) | [link](./content/Publications/fspor-06-1440652.pdf) | [link](https://doi.org/10.3389/fspor.2024.1440652) |
