@@ -3,3 +3,10 @@ title: "Talks"
 ---
 
 Here you will find all talks, presentations, poster, etc. I gave.
+
+| Title | Congress | File | Publication |
+|---------|---------|:---:|:---:|
+| Exercise Induced Hypoxaemia (EIH) modeling | European College of Sport Science (ECSS) 2023 | [link](./content/Presentations/2023_ECSS_EIH_modeling.pdf) | *NA* |
+| Specific impact of a COVID-19 infection on training modalities of endurance trained athletes | European College of Sport Science (ECSS) 2023 | [link](./content/Posters/2023_ECSS_COVID_poster.pdf) | *NA* |
+| L'intelligence artificielle pour la performance: de l'entraînement aux Jeux Olympiques | Fête de la science 2023 | [link](./content/Presentations/2023_Fete_science.pdf) | *NA* |
+| Détection de pathologies respiratoires chez les sportifs de haut niveau durant un camp d'entraînement en hypoxie | Réseau Francophone de Métabolomique et Fluxomique (RFMF) 2024 | [link](./content/Posters/2024_RFMF_patho_poster.pdf) | *NA* |
