@@ -13,6 +13,8 @@ website:
         text: Talks
       - href: lessons.qmd
         text: Lessons
+      - href: softwares.qmd
+        text: Softwares
       - href: about.qmd
         text: About
 
