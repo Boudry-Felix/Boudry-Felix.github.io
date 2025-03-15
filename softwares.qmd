@@ -5,3 +5,4 @@ title: "Softwares"
 Here are some softwares I created.
 
 - [Prescrition generator](https://cr8mnj-felix-boudry.shinyapps.io/prescription_generator/)
+- [Load-velocity model](https://cr8mnj-felix-boudry.shinyapps.io/load_velocity_model/)

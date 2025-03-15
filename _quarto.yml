@@ -23,7 +23,6 @@ format:
     theme:
       dark: darkly
       light: cosmo
-    css: styles.css
     toc: true
 
 
