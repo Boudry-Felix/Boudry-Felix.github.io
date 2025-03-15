@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is my organization’s website. It contains informations about my publications, lectures, conference presentations, posters, teaching contents, etc."
+    "text": "This is my personnal website. It contains informations about my publications, lectures, conference presentations, posters, teaching contents, etc."
   },
   {
     "objectID": "index.html",
@@ -46,13 +46,13 @@
     "href": "softwares.html",
     "title": "Softwares",
     "section": "",
-    "text": "Here are some softwares I created.\n\nPrescrition generator"
+    "text": "Here are some softwares I created.\n\nPrescrition generator\nLoad-velocity model"
   },
   {
     "objectID": "lessons.html",
     "href": "lessons.html",
     "title": "Lessons",
     "section": "",
-    "text": "Here you will find all lessons I am giving or gave in the past."
+    "text": "DEUST\n\nConnected physical activity (Activité Physique Connectée)\n\nL1\n\nLive sciences (Sciences de la Vie)"
   }
 ]
